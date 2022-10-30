@@ -1,4 +1,4 @@
-= O repozitári
+# O repozitári
 
 Zdrojové kódy pre článok [Od WSDL k webovej službe — generovanie servera a klienta pomocou Metro na Java 17](https://novotnyr.github.io/scrolls/od-wsdl-k-webovej-sluzbe-metro-pre-java-17/).
 
